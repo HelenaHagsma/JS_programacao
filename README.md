@@ -1,2 +1,2 @@
 # JS_programacao
-Esse repositório foi criado para armazenar códigos JS e para um teste de clonagem.
+This repository was created for stock JS codes and for a test of cloning.
