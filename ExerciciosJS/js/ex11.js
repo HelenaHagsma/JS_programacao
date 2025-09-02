@@ -5,7 +5,7 @@ n2=parseInt(prompt("Digite o segundo número: "))
 op=prompt("Digite a operação que deseja realizar: 1 - soma| 2 - subtração| 3 - multiplicação| 4 - divisão")
 
 switch(op){
-    case "1":{
+    case "1":{/* Usa-se aspas no "1" pois o valor digitado pelo usuário é uma string */
         alert("Resultado: "+(n1+n2))
         break
     }
